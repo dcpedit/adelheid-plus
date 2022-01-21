@@ -2,7 +2,8 @@
 
 The Adelheid Plus is a fork of [Flookay's Adelheid case and PCB](https://github.com/floookay/adelheid).
 
-![adelheid](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/559336bcb5f8c04bbea9ad8aab7397812ab72859/adelheid.jpg)
+![adelheid_plus_resized](https://user-images.githubusercontent.com/800930/150452003-4a898895-5934-4bcd-ba8f-0a1653da499b.jpg)
+Photo by yosoyjose
 
 Repository folders:
 
@@ -23,8 +24,8 @@ I modifed the pcb a bit to accept an Atmega32u4-MU since those seem to be in sto
 
 ## Layout
 
-[Keyboard-Layout-Editor](http://www.keyboard-layout-editor.com/#/gists/57b8a9ee4aeb89308701e20eda9b5dfc)
-![adelheid layout](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/4545813142abf2e65902b7caca10f7a3b39ebaed/layout.png)  
+[Keyboard-Layout-Editor](http://www.keyboard-layout-editor.com/#/gists/57b8a9ee4aeb89308701e20eda9b5dfc) 
+![layout](https://user-images.githubusercontent.com/800930/150452424-d3dea0da-3d32-47d5-a4fc-80a83637e7d6.jpg)
 
 ## Firmware
 
