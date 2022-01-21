@@ -6,10 +6,12 @@ The Adelheid Plus is a fork of [Flookay's Adelheid case and PCB](https://github.
 
 Repository folders:
 
-- `pcb`: KiCad
-- `pcb-mu`: KiCad for the Atmega32u4-MU chip
+- `pcb`: KiCad files
+- `pcb-mu`: KiCad files for Atmega32u4-MU chip
 - `case`: High profile case files
 - `wrist-rest`: Wrist rest files
+
+I modifed the pcb a bit to accept an Atmega32u4-MU since those seem to be in stock more often.
 
 ## Changes in this fork
 
