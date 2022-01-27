@@ -6,17 +6,17 @@ Below are tables that represent the screw/standoff positions.  The top row are t
 ### Top Surface Screws (M2.5)
 | | | | | |
 |-|-|-|-|-|
-| 14mm | 14mm | 14mm | 14mm |
-|  6mm |  6mm |  6mm |  6mm |
+| 14mm | 14mm | 14mm | 14mm
+|  6mm |  6mm |  6mm |  6mm
 
 ### Hex Standoffs (M2.5 female-female)
 | | | | | |
 |-|-|-|-|-|
-| 5mm | 5mm | 5mm | 5mm |
-| 5mm | 5mm | 5mm | 5mm |
+| 5mm | 5mm | 5mm | 5mm
+| 5mm | 5mm | 5mm | 5mm
 
 ### Bottom Side Screws (M2.5)
 | | | | | |
 |-|-|-|-|-|
-| 12mm | 12mm | 12mm | 12mm |
-|  4mm |  4mm |  4mm |  4mm |
+| 12mm | 12mm | 12mm | 12mm
+|  4mm |  4mm |  4mm |  4mm
