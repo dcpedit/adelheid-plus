@@ -29,4 +29,4 @@ I modifed the pcb a bit to accept an Atmega32u4-MU since those seem to be in sto
 
 ## Firmware
 
-See my Vial fork for the [firmware files](https://github.com/dcpedit/vial-qmk/tree/dcpedit/keyboards/dcpedit/adelheid_plus) on the [`dcpedit` branch](https://github.com/dcpedit/vial-qmk/tree/dcpedit).  I opted for Vial since it allows you to program the rotary encoder through their GUI: https://get.vial.today/
+See my Vial fork for the [firmware files](https://github.com/dcpedit/vial-qmk-dev/tree/dcpedit/keyboards/dcpedit/adelheid_plus) on the [`dcpedit` branch](https://github.com/dcpedit/vial-qmk-dev/tree/dcpedit).  I opted for Vial since it allows you to program the rotary encoder through their GUI: https://get.vial.today/

@@ -4,4 +4,4 @@ https://get.vial.today
 
 ## Firmware source
 
-https://github.com/dcpedit/vial-qmk/tree/dcpedit/keyboards/dcpedit/adelheid_plus
+https://github.com/dcpedit/vial-qmk-dev/tree/dcpedit/keyboards/dcpedit/adelheid_plus
